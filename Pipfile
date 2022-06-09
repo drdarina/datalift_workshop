@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+matplotlib = "*"
+requests = "*"
+trueskill = "*"
+scipy = "*"
+glicko2 = {git = "https://github.com/drdarina/glicko2.git"}
+ipykernel = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
