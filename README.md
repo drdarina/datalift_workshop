@@ -1,6 +1,10 @@
 # Ratings Workshop
 ## At Datalift on June 24 2022
 
+### Presentation:
+
+https://docs.google.com/presentation/d/1npolNV0f1Kz4YwQQjQeeKJw7RfNQEcJ5EkHx5Z1Lk0E/edit?usp=sharing
+
 ### Setup:
 Install pipenv: https://pipenv.pypa.io/en/latest/
 run `pipenv install`
